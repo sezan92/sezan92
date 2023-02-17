@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Informations
 
-- 🔭 I’m currently working as a Research Engineer in `Legalfoce-corp.com`
+- 🔭 I’m currently working as a Research Engineer in `LegalOn Technologies` aka `Legalforce`
 - 🌱 I’m currently learning AI, Robotics, Autonomous driving.
 - 👯 I’m looking to collaborate on Autonomous driving, Computer vision.
 - 💬 Ask me about AI, Robotics Software Engineering.
