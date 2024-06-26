@@ -2,6 +2,9 @@
 
 > In the name of God most merciful and infinitely merciful
 
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
+
 "I remember well how my mother asked me why I couldn't be a nice boy like Wilfred; but I would think to myself that Wilfred, for being so nice and quiet, often stayed hungry. So early in life, I had learned that if you want something, you had better make some noise" - `Shabaz Al Malik` aka `Malcolm X`
 
 "Because being normal, is too mainstream!" - Myself
